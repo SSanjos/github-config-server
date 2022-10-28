@@ -8,5 +8,5 @@ management:
         include:
         - '*'
 greeting-microservice:
-  greeting: "Ciao"
-  default-value: "Pizza"
+  greeting: "São"
+  default-value: "Duas Pizzas"
